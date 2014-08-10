@@ -16,6 +16,6 @@ coffee newgit.coffee mohammedtarek1
 
 **One line execution:**
 ``` bash
-git clone https://github.com/mohammedtarek1/Task4.git && coffee newgit.coffee mohammedtarek1
+git clone https://github.com/mohammedtarek1/Task1.git && ./newgit.js username mohammedtarek1
 ```
 
